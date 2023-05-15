@@ -1,5 +1,6 @@
 <h1>Laravel React Example Full Stack Application</h1>
-## About Laravel
+
+<h3>Example Application build with Laravel and React</h3>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
